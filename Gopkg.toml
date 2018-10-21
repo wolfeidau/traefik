@@ -112,12 +112,13 @@
   version = "1.3.7"
 
 [[constraint]]
-  branch = "master"
   name = "github.com/jjcollinge/servicefabric"
+  revision = "8eebe170fa1ba25d3dfb928b3f86a7313b13b9fe"
 
 [[constraint]]
   branch = "master"
   name = "github.com/abronan/valkeyrie"
+  source = "https://github.com/wolfeidau/valkeyrie.git"
 
 [[constraint]]
   name = "github.com/mesosphere/mesos-dns"
